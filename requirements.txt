@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+openai
+langchain
+sentence-transformers
+pdfplumber
+PyPDF2
+tiktoken
