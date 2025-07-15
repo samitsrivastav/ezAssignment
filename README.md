@@ -17,7 +17,7 @@ Built as part of an intern task to showcase contextual understanding and reasoni
 ---
 
 ## Tech Stack
-- Frontend & Web app: [Streamlit](https://streamlit.io/)
+- Frontend & Web app
 - PDF Extraction: PyMuPDF (`fitz`)
 
 
